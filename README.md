@@ -25,9 +25,6 @@ trained the model.
      * [Results](#results2)
 <!--te-->
 
-# To do:
-* Add visual of custom CNN
-
 ---
 <a name="data"/></a>
 ##  Data
